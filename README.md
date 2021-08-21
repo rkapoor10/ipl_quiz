@@ -8,4 +8,4 @@
 3.Repl.it  
 4.CHALK
 
-[Click here to play]{https://replit.com/@RitikKapoor/iplquiz?embed=1&output=1}
+[Click here to play](https://replit.com/@RitikKapoor/iplquiz?embed=1&output=1)
